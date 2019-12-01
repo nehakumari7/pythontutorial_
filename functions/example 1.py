@@ -22,7 +22,7 @@ def total_1(m1,m2=0,m3=0):
 t_1=total_1(1,2)
 print(t_1)
 
-#default parameter can be defined
+#default parameter can be definedgdgfdg
 #if one is default parameter then subsequent parameter should also be default parameter
 
 t_1=total_1(1,m2=3,m3=6)
