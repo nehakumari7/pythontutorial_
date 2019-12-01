@@ -10,4 +10,4 @@ if __name__=='__main__':
     a=input("enter value of a ")
     b=input("enter value of b ")
     c=int(a) + int(b)
-    print("answer: " + str(c))
+    print("answer " + str(c))
